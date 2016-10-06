@@ -1,15 +1,19 @@
-[
-  {"section":"title"},
-  {"section":"about_me"},
-  {"section":"agenda"},
-  {"section":"bad_code"},
-  {"section":"mvc"},
-  {"section":"abusing_rails"},
-  {"section":"reinvent_wheels"},
-  {"section":"organize"},
-  {"section":"our_way_to_organize"},
-  {"section":"conclusion"},
-  {"section":"reference"},
-  {"section":"the_end"},
-  {"section":"advertise"}
-]
+{
+  "name": "Essntial Rails Pattern",
+  "description": "by Xdite",
+  "sections": [
+    {"section": "title"},
+    {"section": "about_me"},
+    {"section": "agenda"},
+    {"section": "bad_code"},
+    {"section": "mvc"},
+    {"section": "abusing_rails"},
+    {"section": "reinvent_wheels"},
+    {"section": "organize"},
+    {"section": "our_way_to_organize"},
+    {"section": "conclusion"},
+    {"section": "reference"},
+    {"section": "the_end"},
+    {"section": "advertise"}
+  ]
+}
